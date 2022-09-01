@@ -9,4 +9,6 @@ Following environment variables are stored in .env:
  ## Getting the APP_SECRET
 
  This secret value is used to build the 'x-monizze-app-token' header.   
- It can be found in various ways (keep in mind, the application also needs to build this header, *wink wink*), though none of which will be disclosed in this repo.
+ It can be found in various ways, though none of which will be disclosed in this repo.   
+    
+ (keep in mind, the android app also needs to build this header, *wink wink*)
